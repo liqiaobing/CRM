@@ -1,0 +1,11 @@
+E:\202402\3-5\动力云客后端\MyCRM\Test.Models\bin\Debug\net6.0\Test.Models.deps.json
+E:\202402\3-5\动力云客后端\MyCRM\Test.Models\bin\Debug\net6.0\Test.Models.dll
+E:\202402\3-5\动力云客后端\MyCRM\Test.Models\bin\Debug\net6.0\Test.Models.pdb
+E:\202402\3-5\动力云客后端\MyCRM\Test.Models\obj\Debug\net6.0\Test.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\202402\3-5\动力云客后端\MyCRM\Test.Models\obj\Debug\net6.0\Test.Models.AssemblyInfoInputs.cache
+E:\202402\3-5\动力云客后端\MyCRM\Test.Models\obj\Debug\net6.0\Test.Models.AssemblyInfo.cs
+E:\202402\3-5\动力云客后端\MyCRM\Test.Models\obj\Debug\net6.0\Test.Models.csproj.CoreCompileInputs.cache
+E:\202402\3-5\动力云客后端\MyCRM\Test.Models\obj\Debug\net6.0\Test.Models.dll
+E:\202402\3-5\动力云客后端\MyCRM\Test.Models\obj\Debug\net6.0\refint\Test.Models.dll
+E:\202402\3-5\动力云客后端\MyCRM\Test.Models\obj\Debug\net6.0\Test.Models.pdb
+E:\202402\3-5\动力云客后端\MyCRM\Test.Models\obj\Debug\net6.0\ref\Test.Models.dll
